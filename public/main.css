@@ -1,0 +1,29 @@
+.gallery{
+	margin-bottom: 10px;
+}
+
+.gallery img.photo{
+	width: 100%;
+}
+.imgInfo {
+	text-align: center;
+	background: #660033;
+	width: 100%;
+	margin-bottom: 10px;
+	color: #fff;
+	padding: 10px 0;
+}
+
+.avatar {
+	width: 50px;
+	margin-right: 10px;
+}
+body{
+	background: #000033;
+}
+h1 {
+	color: #FFFFFF;
+}
+#project {
+	color: #FFFFFF;
+}
